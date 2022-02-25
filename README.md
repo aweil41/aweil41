@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD student in political science at the University of Chicago. My research focuses on the intersection of political violence and rhetoric/narrative. I've studied extremist messaging, the online popularization of certain terrorist tactics, and how public opinion constrains and enables insurgents. Methodologically, my main interests lie in archival and computational approaches.
+
 <!--
 **aweil41/aweil41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
